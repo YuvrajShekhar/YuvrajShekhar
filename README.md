@@ -14,7 +14,7 @@ I'm a passionate software engineer based in Berlin, Germany.
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/leetcode.png)](https://leetcode.com/u/syuvraj1999/)
+[![website](./img/leetcodesmall.png)](https://leetcode.com/u/syuvraj1999/)
 [![website](./img/HACKERRANK.png)](https://www.hackerrank.com/profile/syuvraj1999)
 
 
