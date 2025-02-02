@@ -11,15 +11,17 @@ I'm a passionate software engineer based in Berlin, Germany.
 [![website](./img/globe-light.svg)](https://yuvrajshekharportfolio.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://yuvrajshekharportfolio.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/leetcode.png)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-dark-mode-only)
 
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
