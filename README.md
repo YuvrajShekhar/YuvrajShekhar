@@ -8,8 +8,8 @@ I'm a passionate software engineer based in Berlin, Germany.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://yuvrajshekharportfolio.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://yuvrajshekharportfolio.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://yuvrajshekharportfolio.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://yuvrajshekharportfolio.vercel.app#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289/)
