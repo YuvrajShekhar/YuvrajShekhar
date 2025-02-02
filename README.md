@@ -15,6 +15,7 @@ I'm a passionate software engineer based in Berlin, Germany.
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuvraj-shekhar-663541289#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/leetcodesmall.png)](https://leetcode.com/u/syuvraj1999/)
+&nbsp;&nbsp;
 [![website](./img/HACKERRANK.png)](https://www.hackerrank.com/profile/syuvraj1999)
 
 
@@ -37,6 +38,15 @@ I'm a passionate software engineer based in Berlin, Germany.
 <br />
 
 ---
+### 🛠️ Tech Stack
+
+| Category                      | Developer Tools |
+| ----------------------------- | --------------- |
+| Programming Languages         | `Go/Golang`, `C++`, `Python`, `Javascript`, `Bash` |
+| Frameworks/Libraries          | `Django`, `React`|
+| Databases                     | `MySQL`, `PostgreSQL`, `MongoDB` |
+| DevOps and Development Tools  | `Docker`, `Git`, `GitHub`, `Postman`, `VSCode`, `Vim`, `Apache`, `Ngnix` |
+| Design and Prototyping        | `Figma` |
 
 [website]: https://yuvrajshekharportfolio.vercel.app/
 [linkedin]: https://www.linkedin.com/in/yuvraj-shekhar-663541289/
